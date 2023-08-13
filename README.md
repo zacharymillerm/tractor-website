@@ -15,6 +15,6 @@
 
 ## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
+[![Zachary M](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/zacharymillerm)
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+MIT © [Zachary M ](https://github.com/zacharymillerm)
